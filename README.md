@@ -1,2 +1,3 @@
 # DSAC-FA-MVP
-a company which does financial consultations with AI-backed advice.
+A company which does financial consultations with AI-backed advice.
+
