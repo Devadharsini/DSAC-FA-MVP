@@ -20,3 +20,21 @@ are stored in a cloud hosted NoSQL database for later access.
 The clients or investors can have clear imaginations of stock trends through visualization. Our
 platform can generate various interactive figures of a chosen ticker, including history fluctuation,
 average values over time or even the future direction.
+
+#install this prior to running the codes.
+pip install yfinance
+pip install pandas_datareader
+
+#libraries to be imported
+import pandas as pd
+import datetime
+import pandas_datareader.data as web
+from pandas import Series, DataFrame
+from pandas.plotting import scatter_matrix
+import math
+import numpy as np
+from sklearn import preprocessing
+import csv 
+import json
+
+
